@@ -10,7 +10,7 @@ A little about me, enjoy clicking the tiles!
 <td style="text-align: center"><a href="https://en.wikipedia.org/wiki/India"><img src="https://raw.githubusercontent.com/xprilion/xprilion/master/images/x/7.png" alt="" /></a> <a href="#"><img src="https://raw.githubusercontent.com/xprilion/xprilion/master/images/x/4.png" alt="" /></a> <a href="https://xprilion.com/posts/"><img src="https://raw.githubusercontent.com/xprilion/xprilion/master/images/x/1.png" alt="" /></a></td>
 </tr>
 <tr>
-    <td colspan=3>More about me</td>
+    <td colspan=3><h3>More about me<h3></td>
 </tr>
 <tr>
 <td style="text-align: center"><a href="#"><img src="https://raw.githubusercontent.com/xprilion/xprilion/master/images/y/9.png" alt="" /></a> <a href="https://gdgkolkata.org"><img src="https://raw.githubusercontent.com/xprilion/xprilion/master/images/y/6.png" alt="" /></a> <a href="https://github.com/xprilion/fireshort"><img src="https://raw.githubusercontent.com/xprilion/xprilion/master/images/y/3.png" alt="" /></a></td>
@@ -18,7 +18,7 @@ A little about me, enjoy clicking the tiles!
 <td style="text-align: center"><a href="#"><img src="https://raw.githubusercontent.com/xprilion/xprilion/master/images/y/7.png" alt="" /></a> <a href="https://tfugkol.github.io"><img src="https://raw.githubusercontent.com/xprilion/xprilion/master/images/y/4.png" alt="" /></a> <a href="https://thecodefoundation.dev"><img src="https://raw.githubusercontent.com/xprilion/xprilion/master/images/y/1.png" alt="" /></a></td>
 </tr>
 <tr>
-    <td colspan=3>Let's get in touch!</td>
+    <td colspan=3><h3>Let's get in touch!</h3></td>
 </tr>
 <tr>
 <td style="text-align: center"><a href="/cdn-cgi/l/email-protection#bcd4d5fcc4ccced592d8d9ca"><img src="https://raw.githubusercontent.com/xprilion/xprilion/master/images/z/3.png" alt="" /></a></td>
